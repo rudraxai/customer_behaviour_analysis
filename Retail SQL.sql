@@ -57,7 +57,7 @@ select customer_segment, count(*) as 'No of Customers'
 from customer_type
 group by customer_segment;
 
--- what are the top 3 most purchased products in each category?
+--Q8. what are the top 3 most purchased products in each category?
 with item_counts as (
 select category,item_purchased,
 count(customer_id) as total_orders,
