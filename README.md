@@ -155,24 +155,20 @@ Target high-revenue age groups
 ⚙️ How to Run This Project
 Step 1: Clone the Repository
 git clone https://github.com/your-username/your-repo-name.git
+
 Step 2: Install Dependencies
 pip install -r requirements.txt
+
 Step 3: Run Python Scripts
-
 Perform EDA and data cleaning
-
 Export cleaned dataset
 
 Step 4: Load Data into MySQL
-
 Import cleaned dataset
-
 Execute SQL queries
 
 Step 5: Open Power BI Dashboard
-
 Open .pbix file
-
 Explore visual insights
 
 📁 Project Structure
